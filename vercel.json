@@ -1,1 +1,8 @@
-{\"rewrites\": [{\"source\": \"/\", \"destination\": \"/trader_dash.html\"}] }
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/trader_dash.html"
+    }
+  ]
+}
